@@ -1,6 +1,6 @@
 name,description,query,id,parentId,isFolder
 day01,,,0,1,true
-ingest_test,,"LOAD CSV FROM ""file:///day01/input.txt"" AS line// FIELDTERMINATOR '\n'
+ingest,,"LOAD CSV FROM ""file:///day01/input.txt"" AS line// FIELDTERMINATOR '\n'
 WITH line[0] AS line
 WITH line, apoc.text.split(line, '') AS chars
 WITH line, chars
