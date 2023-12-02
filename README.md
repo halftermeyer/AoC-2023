@@ -18,3 +18,9 @@ Advent of Code 2023
 #### part 2
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr"><p lang="en" dir="ltr">🌐 Part 2 of <a href="https://twitter.com/hashtag/AdventOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#AdventOfCode</a> <a href="https://twitter.com/hashtag/AoC2023?src=hash&amp;ref_src=twsrc%5Etfw">#AoC2023</a> <a href="https://twitter.com/hashtag/day1?src=hash&amp;ref_src=twsrc%5Etfw">#day1</a> was a deep dive into graph theory with <a href="https://twitter.com/hashtag/Neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#Neo4j</a>! I used GDS for weakly connected components to identify subgraphs, followed by a topological sort in a DAG. 📈 Graph database for the win! <a href="https://twitter.com/hashtag/GraphDataScience?src=hash&amp;ref_src=twsrc%5Etfw">#GraphDataScience</a> <a href="https://t.co/DaWwK1TiR1">pic.twitter.com/DaWwK1TiR1</a></p>&mdash; Pierre Halftermeyer (@halftep) <a href="https://twitter.com/halftep/status/1730620951392289213?ref_src=twsrc%5Etfw">December 1, 2023</a></blockquote>
+
+## day 2
+
+### python solution
+
+[notebook](day02/day02.ipynb)
