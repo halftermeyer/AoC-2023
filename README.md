@@ -26,3 +26,11 @@ Advent of Code 2023
 [notebook](day02/day02.ipynb)
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A graphy solution for today&#39;s <a href="https://twitter.com/hashtag/AdventOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#AdventOfCode</a> 🧩 using <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://twitter.com/hashtag/graphdatascience?src=hash&amp;ref_src=twsrc%5Etfw">#graphdatascience</a> python client. And, as always:<br>good graph model =&gt; easy <a href="https://twitter.com/hashtag/cypher?src=hash&amp;ref_src=twsrc%5Etfw">#cypher</a> <a href="https://twitter.com/hashtag/AoC2023?src=hash&amp;ref_src=twsrc%5Etfw">#AoC2023</a> <a href="https://twitter.com/hashtag/day2?src=hash&amp;ref_src=twsrc%5Etfw">#day2</a> <a href="https://t.co/IxLyr5C1HR">https://t.co/IxLyr5C1HR</a> <a href="https://t.co/wHf9G5Avau">pic.twitter.com/wHf9G5Avau</a></p>&mdash; Pierre Halftermeyer (@halftep) <a href="https://twitter.com/halftep/status/1730965395970937311?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote>
+
+## day 3
+
+### python+cypher solution
+
+[notebook](day03/day03.ipynb)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">I&#39;ve completed &quot;Gear Ratios&quot; - Day 3 - Advent of Code 2023 <a href="https://t.co/8AL7FIwdI1">https://t.co/8AL7FIwdI1</a> <a href="https://twitter.com/hashtag/AdventOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#AdventOfCode</a> <a href="https://t.co/yTHZozWLkz">https://t.co/yTHZozWLkz</a> <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://twitter.com/hashtag/cypher?src=hash&amp;ref_src=twsrc%5Etfw">#cypher</a> <a href="https://t.co/NCKGdgZnIS">pic.twitter.com/NCKGdgZnIS</a></p>&mdash; Pierre Halftermeyer (@halftep) <a href="https://twitter.com/halftep/status/1731356977635172830?ref_src=twsrc%5Etfw">December 3, 2023</a></blockquote>
