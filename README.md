@@ -34,3 +34,9 @@ Advent of Code 2023
 [notebook](day03/day03.ipynb)
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">I&#39;ve completed &quot;Gear Ratios&quot; - Day 3 - Advent of Code 2023 <a href="https://t.co/8AL7FIwdI1">https://t.co/8AL7FIwdI1</a> <a href="https://twitter.com/hashtag/AdventOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#AdventOfCode</a> <a href="https://t.co/yTHZozWLkz">https://t.co/yTHZozWLkz</a> <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://twitter.com/hashtag/cypher?src=hash&amp;ref_src=twsrc%5Etfw">#cypher</a> <a href="https://t.co/NCKGdgZnIS">pic.twitter.com/NCKGdgZnIS</a></p>&mdash; Pierre Halftermeyer (@halftep) <a href="https://twitter.com/halftep/status/1731356977635172830?ref_src=twsrc%5Etfw">December 3, 2023</a></blockquote>
+
+## day 4
+
+### python solution
+
+[notebook](day04/day04.ipynb)
