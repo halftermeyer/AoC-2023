@@ -1,5 +1,8 @@
 # AoC-2023
-Advent of Code 2023
+
+This is a repo for Advent of Code 2023.
+
+There will be a lot of Neo4j / cypher / apoc / GDS but, unlike [last year](https://github.com/halftermeyer/AoC-2022-cypher), not only and not every day.
 
 ## day 1
 
