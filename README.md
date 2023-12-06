@@ -47,3 +47,15 @@ Unlike [last year 100% cypher AoC](https://github.com/halftermeyer/AoC-2022-cyph
 [notebook](day04/day04.ipynb)
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">I&#39;ve completed &quot;Scratchcards&quot; - Day 4 - Advent of Code 2023 <a href="https://twitter.com/hashtag/AdventOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#AdventOfCode</a> - Offering a 0.0% best practice guarantee with this one. &lt;🍝/&gt; <a href="https://twitter.com/hashtag/offroad?src=hash&amp;ref_src=twsrc%5Etfw">#offroad</a> <a href="https://twitter.com/hashtag/cypher?src=hash&amp;ref_src=twsrc%5Etfw">#cypher</a> <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://twitter.com/hashtag/codingrebel?src=hash&amp;ref_src=twsrc%5Etfw">#codingrebel</a> <a href="https://t.co/LMWz6B67Sw">https://t.co/LMWz6B67Sw</a> <a href="https://t.co/gNxWy1NlkV">pic.twitter.com/gNxWy1NlkV</a></p>&mdash; Pierre Halftermeyer (@halftep) <a href="https://twitter.com/halftep/status/1731787987984261282?ref_src=twsrc%5Etfw">December 4, 2023</a></blockquote>
+
+## day 5
+
+### python and python solution
+
+[notebook](day05/day05.ipynb)
+
+## day 6
+
+### python and python solution
+
+[notebook](day06/day06.ipynb)
