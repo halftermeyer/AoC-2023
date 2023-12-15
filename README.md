@@ -1,10 +1,8 @@
 # AoC-2023
 
-This is a repo for Advent of Code 2023.
+This is a repo for Advent of Code 2023 in python with some Neo4j / cypher / GDS when relevant.
 
-There will be a lot of Neo4j / cypher / apoc / GDS.
-
-Unlike [last year 100% cypher AoC](https://github.com/halftermeyer/AoC-2022-cypher), python will serve as a glue this year.
+You can also check [last year 100% cypher AoC](https://github.com/halftermeyer/AoC-2022-cypher).
 
 ## day 1
 
@@ -112,5 +110,14 @@ Unlike [last year 100% cypher AoC](https://github.com/halftermeyer/AoC-2022-cyph
 
 [notebook](day13/day13.ipynb)
 
+## day 14
 
+### python solution
 
+[notebook](day14/day14.ipynb)
+
+## day 15
+
+### python solution
+
+[notebook](day15/day15.ipynb)
