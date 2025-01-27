@@ -88,6 +88,8 @@ You can also check [last year 100% cypher AoC](https://github.com/halftermeyer/A
 
 [notebook](day10/day10.ipynb)
 
+https://x.com/halftep/status/1733964861250425307/video/1 
+
 ## day 11
 
 ### python solution
